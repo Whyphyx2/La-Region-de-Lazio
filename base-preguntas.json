@@ -1,0 +1,78 @@
+[
+    {
+        "categoria":"Geografia",
+        "pregunta" :"C'è una top 3 delle regioni più popolate. Che posizione occupa il Lazio?",
+        "respuesta":"Terzo",
+        "incorrecta1":"Primo",
+        "incorrecta2":"Secondo",
+        "incorrecta3":"Nessuno",
+        "imagen":"https://www.italia.it/content/dam/tdh/es/interests/lazio/roma/roma-la-citta-eterna/media/20210410125258-enit-lazio-roma-tevere.jpg",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Geografia",
+        "pregunta" :"Quanti km2 è la sua superficie?",
+        "respuesta":"17.236 km2",
+        "incorrecta1":"12.127 km2",
+        "incorrecta2":"20.524 km2",
+        "incorrecta3":"18.236 km2",
+        "imagen":"https://imgs.search.brave.com/92O0lwyEv8BB42z0iN_hAXrTOLYK58paGqQ2KH4Hbzc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXBh/bXVuZGkub25saW5l/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE5/LzAxL21hcGEtZmlz/aWNvLXBvbGl0aWNv/LWl0YWxpYS1ub21i/cmVzLTkwNHgxMDI0/LmpwZw",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Gastronomia",
+        "pregunta" :"Qual è il cibo tipico della regione?",
+        "respuesta":"L’Abbacchio alla Scottadito",
+        "incorrecta1":"Pollo alla cacciatora",
+        "incorrecta2":"Lardo di Colonnata",
+        "incorrecta3":"Spaghetti alla carbonara",
+        "imagen":"https://imgs.search.brave.com/xWbnAe0CBsGZvVQaeXjTWykFsBNc1udsiHmMtEaLq04/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWct/Z2xvYmFsLmNwY2Ru/LmNvbS9yZWNpcGVz/L2JmZTI1NjJmY2Yw/NjdjODkvNjgweDQ4/MmNxNzAvcG9sbG8t/YWxsYS1jYWNjaWF0/b3JhLWZvdG8tcHJp/bmNpcGFsLmpwZw",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Dermográfia",
+        "pregunta" :"Quanta popolazione ha la regione?",
+        "respuesta":"5.728.688",
+        "incorrecta1":"10.103.969",
+        "incorrecta2":"3.734.355",
+        "incorrecta3":"603.155",
+        "imagen":"https://imgs.search.brave.com/NC90ei0kr3P62miMWGYOYqqHXzP9JoeneUWH3qfT7Ro/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWNnZW9wb3AuYWth/bWFpemVkLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvc2l0ZXMv/MzIvMjAyMi8wMi9H/cmFmaWNvLmpwZw",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Storia",
+        "pregunta" :"Perché questa regione si chiama così??",
+        "respuesta":"Deriva dall'antico popolo dei Latini",
+        "incorrecta1":"Deriva dall'antico popolo dei Romano",
+        "incorrecta2":"Deriva dall'antico popolo dei Toscana",
+        "incorrecta3":"Nessuno è corretto",
+        "imagen":"https://imgs.search.brave.com/DDHftAq-8EPoaOZWzZOv6R_zuelJH_7scSj-eNv8DCs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY2LzIwMTItMDIt/MTdfRm9yb19Sb21h/bm9fZGFfUGFsYXp6/b19TZW5hdG9yaW9f/Mi5qcGc",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Industria",
+        "pregunta" :"Quale di queste non è un'industria della regione?",
+        "respuesta":"Tessile",
+        "incorrecta1":"Aeroespaziale",
+        "incorrecta2":"Farmaceutica",
+        "incorrecta3":"Chimica",
+        "imagen":"https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2020/07/10-mejores-coches-italianos-historia-2015021.jpg?tf=3840x",
+        "objectFit":"cover"
+    },
+    {
+        "categoria":"Arte y Escultura",
+        "pregunta" :"Quali sono i monumenti che possiede la regione?",
+        "respuesta":"Colosseo e Foro Romano",
+        "incorrecta1":"Torre Di Pisa",
+        "incorrecta2":"Foro Romano",
+        "incorrecta3":"Colosseo Romano"
+    },
+    {
+        "categoria":"Economia",
+        "pregunta" :"Come si forma l'agricoltura?",
+        "respuesta":"Ortaggi, Cereali, Alberi da frutto, Vite, Olivo e Floricoltura",
+        "incorrecta1":"Alberi da frutto, Vite e Olivo",
+        "incorrecta2":"Ortaggi, Cereali e Floricoltur",
+        "incorrecta3":"Nessuno è corretto"
+    }
+]
